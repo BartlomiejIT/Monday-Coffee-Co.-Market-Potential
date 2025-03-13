@@ -1,4 +1,4 @@
-# Monday-Coffee-Co.-Market-Potential
+# Monday-Coffee-Co.-Market-Potential (SQL - PYTHON)
 
 ## Project Description
 
